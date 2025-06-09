@@ -2,4 +2,4 @@
 
 Includes project 1 and lab 1
 
-Using Javascript, HTML and CSS.
+Using Javascript
